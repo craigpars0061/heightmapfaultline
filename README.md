@@ -1,2 +1,2 @@
-# heightmapfaultline
-Python code to generate a height map
+# Height map generator
+Python code to generate a basic height map
