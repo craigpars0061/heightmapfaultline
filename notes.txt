@@ -1,0 +1,1 @@
+1. To get started on cli type: source env3.5/bin/activate #in this directory.
